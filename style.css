@@ -190,3 +190,10 @@ canvas {
 #page3 > #text3 > h1 {
   font-size: 70px;
 }
+
+#text2 img {
+  width: 383px;
+  height: 450px;
+  position: relative;
+  bottom: 210px;
+}
