@@ -9,6 +9,16 @@ body {
   height: 100%;
   width: 100%;
 }
+#nav img {
+  overflow: hidden;
+  width: 150px;
+  height: 150px;
+  margin-top: 115px;
+}
+#nav {
+  margin: 10px;
+}
+
 #main {
   position: relative;
   overflow: hidden;
